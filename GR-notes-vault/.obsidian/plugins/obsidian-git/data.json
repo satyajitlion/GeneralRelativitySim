@@ -1,6 +1,6 @@
 {
-  "commitMessage": "Edited Research log: {{date}}",
-  "autoCommitMessage": "\"Edited Research log: {{date}}\"",
+  "commitMessage": "\"Edited General Relativity Project: {{date}}\"",
+  "autoCommitMessage": "\"\\\"Edited General Project: {{date}}\\\"\"",
   "commitMessageScript": "",
   "commitDateFormat": "MM-DD-YYYY HH:mm:ss",
   "autoSaveInterval": 5,

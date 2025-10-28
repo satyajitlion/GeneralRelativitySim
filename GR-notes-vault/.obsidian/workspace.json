@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 325.5
   },
   "right": {
     "id": "e3cd71cbfa7389a2",
@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++ Notes/Syntax for C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Syntax for C++"
             }
           },
           {
@@ -140,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GR Notes.md",
+                "file": "C++ Notes/Syntax for C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GR Notes"
+              "title": "Outline of Syntax for C++"
             }
           },
           {
@@ -160,11 +161,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
